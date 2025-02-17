@@ -1,2 +1,7 @@
-# Portfolio2-0-Exercise
-This is a modern and responsive portfolio website built as part of an exercise at Sheryians Coding School. It showcases my skills, projects, and experience as a frontend developer.
+## Classroom Project 2 by Sheryians Coding School
+
+This is a modern, responsive portfolio template built with Tailwind CSS! 🌟 It helped me sharpen my skills in creating clean, minimalistic, and fully responsive designs.
+
+## Live Demo
+
+You can see a live demo of this website (https://portfolio-template-webwithaman.netlify.app/)
